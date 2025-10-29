@@ -31,7 +31,7 @@ HTTP Status Code Images from Japanese Road Signs.
 |  302 | Found              | Resource temporarily under different URI. |  |  |  | 
 |  303 | See Other          | Get resource at another URI with GET.     |  |  |  | 
 |  304 | Not Modified       | Resource not modified since last request. |  |  |  | 
-|  305 | Use Proxy          | **Deprecated.** Must use proxy.           |  |  |  | 
+|  305 | Use Proxy          | **Deprecated.** Must use proxy.           | !["305"](./assets/images/305.jpg) |  |  | 
 |  306 | (Unused)           | Reserved; no longer used.                 |  |  |  | 
 |  307 | Temporary Redirect | Same method, different temporary URI.     |  |  |  | 
 |  308 | Permanent Redirect | Same method, different permanent URI.     |  |  |  | 
