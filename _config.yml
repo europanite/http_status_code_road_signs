@@ -1,6 +1,6 @@
-title: "standard_python_environment"
-description: "Python environment built with Docker Compose"
-baseurl: "/standard_python_environment"
+title: "http_status_codes_journey"
+description: "http_status_codes_journey"
+baseurl: "/http_status_codes_journey"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
