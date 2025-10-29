@@ -54,10 +54,10 @@ HTTP Status Code Images from Japanese Road Signs.
 |  412 | Precondition Failed             | One or more preconditions failed.                       |  |  |  | 
 |  413 | Content Too Large               | Request payload is too large.                           |  |  |  | 
 |  414 | URI Too Long                    | URI is too long to process.                             |  |  |  | 
-|  415 | Unsupported Media Type          | Unsupported payload media type.                         |  |  |  | 
-|  416 | Range Not Satisfiable           | Requested range cannot be served.                       |  |  |  | 
-|  417 | Expectation Failed              | Expect header requirements not met.                     |  |  |  | 
-|  418 | I’m a Teapot                    | April Fools’/novelty; non-standard in practice.         |  |  |  | 
+|  415 | Unsupported Media Type          | Unsupported payload media type.                         | !["415"](./assets/images/415.jpg) |  |  | 
+|  416 | Range Not Satisfiable           | Requested range cannot be served.                       | !["416"](./assets/images/416.jpg) |  |  | 
+|  417 | Expectation Failed              | Expect header requirements not met.                     | |  |  | 
+|  418 | I’m a Teapot                    | April Fools’/novelty; non-standard in practice.         | !["418"](./assets/images/418.jpg) |  |  | 
 |  421 | Misdirected Request             | Request routed to a server that can’t produce response. |  |  |  | 
 |  422 | Unprocessable Content (WebDAV)  | Well-formed but semantically erroneous.                 |  |  |  | 
 |  423 | Locked (WebDAV)                 | Resource is locked.                                     |  |  |  | 
