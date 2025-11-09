@@ -1,4 +1,4 @@
-# http_status_codes_journey
+# http_status_codes_signs
 HTTP Status Code Images from Japanese Road Signs.
 
 ## 1xx — Informational
