@@ -1,4 +1,4 @@
-# [Http Status Code Journey](https://github.com/europanite/http_status_code_journey "Http Status Code Journey")
+# [Http Status Code Road Signs](https://github.com/europanite/http_status_code_road_signs "Http Status Code Road Signs")
 
 HTTP Status Code Images from Japanese Road Signs.
 
