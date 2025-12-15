@@ -8,3 +8,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 highlighter: rouge
+markdown: "GFM"
